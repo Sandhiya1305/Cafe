@@ -23,7 +23,9 @@ A responsive, dynamic cafe website built using **PHP**, **MySQL**, **HTML**. Thi
 |------------|-------|
 | PHP        | Server-side scripting |
 | MySQL      | Database |
-| HTML       | UI Design |
+| HTML/CSS   | UI Design |
+| JavaScript | Form validation & interactivity |
+| Bootstrap  | Responsive design |
 
 ## 🗃️ Database Structure
 
