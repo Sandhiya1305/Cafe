@@ -1,6 +1,6 @@
 # ☕ Cafe Website
 
-A responsive, dynamic cafe website built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**. This project allows users to browse a cafe menu, make table reservations, and contact the cafe. The admin panel allows managing menu items, reservations, and customer messages.
+A responsive, dynamic cafe website built using **PHP**, **MySQL**, **HTML**. This project allows users to browse a cafe menu, make table reservations, and contact the cafe. The admin panel allows managing menu items, reservations, and customer messages.
 
 ## 📌 Features
 
@@ -23,9 +23,7 @@ A responsive, dynamic cafe website built using **PHP**, **MySQL**, **HTML**, **C
 |------------|-------|
 | PHP        | Server-side scripting |
 | MySQL      | Database |
-| HTML/CSS   | UI Design |
-| JavaScript | Form validation & interactivity |
-| Bootstrap  | Responsive design |
+| HTML       | UI Design |
 
 ## 🗃️ Database Structure
 
