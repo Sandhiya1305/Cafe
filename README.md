@@ -36,5 +36,5 @@ A responsive, dynamic cafe website built using **PHP**, **MySQL**, **HTML**. Thi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cafe-website.git
-   cd cafe-website
+   git clone 
+   cd Cafe
